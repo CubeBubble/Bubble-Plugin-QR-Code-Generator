@@ -1,0 +1,28 @@
+{
+    "calls": {
+        "AAC": {
+            "data_type": "image",
+            "initialized": true,
+            "method": "get",
+            "name": "Generate QR Code",
+            "no_types": true,
+            "publish_as": "action",
+            "rank": 0,
+            "should_reinitialize": true,
+            "url": "https://chart.googleapis.com/chart?cht=qr&chs=[size]x[size]&chl=[url]",
+            "url_params": {
+                "AAD": {
+                    "key": "size",
+                    "private": true,
+                    "value": "300"
+                },
+                "AAE": {
+                    "key": "url",
+                    "private": true,
+                    "value": "https://cube.fr"
+                }
+            }
+        }
+    },
+    "human": "QR Code Generator"
+}

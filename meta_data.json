@@ -1,0 +1,13 @@
+{
+    "categories": {
+        "0": "productivity",
+        "1": "media",
+        "2": "technical"
+    },
+    "description": "Qr code generator using the Google chart API",
+    "image": "//s3.amazonaws.com/appforest_uf/f1662022777614x590913572858143100/Capture%20d%E2%80%99e%CC%81cran%202022-09-01%20a%CC%80%2010.59.31.png",
+    "license": "open_source",
+    "link": "https://chart.googleapis.com",
+    "name": "QR Code Generator",
+    "sa_node_version": 18
+}
